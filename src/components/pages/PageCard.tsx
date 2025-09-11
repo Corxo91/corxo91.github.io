@@ -38,7 +38,7 @@ export const PageCard = ({ name, url, description, image }: PageCardProps) => {
             cursor: 'pointer',
             transition: 'transform 0.2s',
             '&:hover img': {
-              transform: 'scale(1.50)',
+              transform: 'scale(1.20)',
             },
           }}
         >
