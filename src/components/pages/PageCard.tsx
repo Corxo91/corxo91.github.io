@@ -53,6 +53,9 @@ export const PageCard = ({ name, url, description, image }: PageCardProps) => {
             priority
           />
           {/* Enlace en la esquina inferior derecha de la imagen */}
+        </Box>
+        <CardContent sx={{ pb: 1 }}>
+          <Typography variant="h6" fontWeight={700} gutterBottom>{name}</Typography>
           <p
             rel="noopener noreferrer"
             title={url}
@@ -60,9 +63,6 @@ export const PageCard = ({ name, url, description, image }: PageCardProps) => {
           >
             {url.replace(/^https?:\/\//, '')}
           </p>
-        </Box>
-        <CardContent sx={{ pb: 1 }}>
-          <Typography variant="h6" fontWeight={700} gutterBottom>{name}</Typography>
           <Typography variant="body2" color="text.secondary">{description}</Typography>
         </CardContent>
       </CardActionArea>
