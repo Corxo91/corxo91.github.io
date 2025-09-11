@@ -36,7 +36,7 @@ export const PageCard = ({ name, url, description, image }: PageCardProps) => {
             alignItems: 'center',
             justifyContent: 'center',
             cursor: 'pointer',
-            transition: 'transform 0.2s',
+            transition: 'transform 0.5s',
             '&:hover img': {
               transform: 'scale(1.20)',
             },
