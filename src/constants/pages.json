@@ -1,8 +1,8 @@
 [
   {
-    "name": "NavLink Login",
-    "url": "http://192.168.20.1/",
-    "description": "Página principal del portafolio con skills y presentación.",
-    "image": "/assets/NavLinkPreview.png"
+    "name": "BorasBank CPA",
+    "url": "https://corxo91.github.io/cpa-bank-project/",
+    "description": "CPA BorasBank es un sitio web ficticio creado como parte de un proyecto de curso de CPA. Presenta un diseño moderno y ofrece información sobre servicios bancarios, tipos de cuentas y atención al cliente.",
+    "image": "/assets/cpa-bank.png"
   }
 ]
