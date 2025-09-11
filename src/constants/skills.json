@@ -1,0 +1,15 @@
+{
+  "tecnicos": [
+    { "icon": "Web", "title": "Frontend", "description": "React, Angular, Next.js", "color": "#00fff7" },
+    { "icon": "Code", "title": "Backend", "description": "Django, DRF, FastAPI, Nest, Express", "color": "#ff00ea" },
+    { "icon": "Code", "title": "Lenguajes nativos", "description": "Python, Node.js, JavaScript, C++", "color": "#fffb00" },
+    { "icon": "Storage", "title": "Bases de datos", "description": "Gestión, optimización y seguridad", "color": "#00ff85" },
+    { "icon": "Security", "title": "Ciberseguridad", "description": "Gestión de incidentes, análisis de riesgos y vulnerabilidades, trazas, pentesting empresarial", "color": "#ff0059" },
+    { "icon": "Dns", "title": "SysAdmin & DevOps", "description": "Automatización, integración, administración de sistemas", "color": "#fffb00" }
+  ],
+  "profesionales": [
+    { "icon": "Language", "title": "Idiomas", "description": "Inglés B1, Español nativo", "color": "#00fff7" },
+    { "icon": "RocketLaunch", "title": "Soft Skills", "description": "Rápido aprendizaje, lenguaje formal y técnico, profesionalismo", "color": "#ff00ea" },
+    { "icon": "Group", "title": "Integración", "description": "Integración a proyectos en ejecución, inventiva", "color": "#fffb00" }
+  ]
+}
