@@ -4,5 +4,11 @@
     "url": "https://corxo91.github.io/cpa-bank-project/",
     "description": "CPA BorasBank es un sitio web ficticio creado como parte de un proyecto de curso de CPA. Presenta un diseño moderno y ofrece información sobre servicios bancarios, tipos de cuentas y atención al cliente.",
     "image": "/assets/cpa-bank.png"
+  },
+  {
+    "name": "Nexus Corp Landing Page",
+    "url": "https://nexuscorpglobal.com",
+    "description": "Nexus Corp es una corporación tecnológica y de negocios orientada a crear un ecosistema integral de soluciones para empresas y personas. Desde desarrollo de software y ciberseguridad, hasta comercio electrónico, redes, finanzas y soporte técnico, Nexus Corp conecta todas las áreas críticas en una sola plataforma. Su enfoque es la innovación, la confiabilidad y el crecimiento escalable para impulsar el futuro de sus clientes.",
+    "image": "/assets/nexus-landing-page.png"
   }
 ]
